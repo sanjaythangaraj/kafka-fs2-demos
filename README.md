@@ -13,5 +13,5 @@ process it using `fs2`, and produces results to other kafka topics.
 This project illustrates the use of `fs2` streams to consume data from `kafka` topics,
 process them concurrently, manage state, and enable integration with external services.
 
-- project package [`src/main/scala/simplertnotifsys`](src/main/scala/simplekafkademo)
+- project package [`src/main/scala/simplertnotifsys`](src/main/scala/simplertnotifsys)
 - refer to project's [`README.md`](src/main/scala/simplertnotifsys/README.md) for instructions to run. 
