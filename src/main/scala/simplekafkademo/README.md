@@ -1,5 +1,3 @@
-# Simple Kafka + Fs2 Demo
-
 This project demonstrates how to consume data from a `kafka` topic,
 process it using `fs2`, and produces results to other kafka topics.
 
